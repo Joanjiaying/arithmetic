@@ -9,7 +9,7 @@ All questions come from the https://leetcode-cn.com/
 有时间会补上
 
 目标：
-1、初级算法
+1、初级算法: primary_arithmetic.js
 2、中级算法
 3、高级算法
 4、算法面试题汇总
